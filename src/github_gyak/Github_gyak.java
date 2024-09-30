@@ -7,7 +7,7 @@ public class Github_gyak {
 
     private int fv() {
         System.out.println("Nem static");
-        return = "Great"
+        return 0;
     }
     
 }
